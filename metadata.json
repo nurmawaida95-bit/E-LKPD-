@@ -1,0 +1,6 @@
+{
+  "name": "LKPD Interaktif Sel Volta Berbasis PBL",
+  "description": "Lembar Kerja Peserta Didik (LKPD) interaktif scaffolding berbasis Problem-Based Learning (PBL) materi Sel Volta dengan simulasi laboratorium virtual, animasi transfer ion jembatan garam, perakitan sel Daniell, perhitungan galat, evaluasi HOTS, dan dashboard guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
